@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\hp\Downloads\Ticket box\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
